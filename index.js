@@ -4,3 +4,7 @@ class A {
         this.bar = bar;
     }
 }
+
+class B {
+    
+}
